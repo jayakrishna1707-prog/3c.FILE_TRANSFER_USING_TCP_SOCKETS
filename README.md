@@ -1,4 +1,4 @@
-[# 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
+# 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
@@ -55,11 +55,9 @@ print('connection closed')
 ```
 ## OUPUT
 server
-<img width="1097" height="228" alt="image" src="https://github.com/user-attachments/assets/2297cfdc-df1f-402d-9696-8a5172dc95db" />
-
+![alt text](<Screenshot 2026-03-18 103812.png>)
 client
-<img width="1113" height="300" alt="image" src="https://github.com/user-attachments/assets/40f40bf8-8471-4389-ba6d-b09ccabfe716" />
-
+![alt text](<Screenshot 2026-03-18 103826.png>)
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
 successfully created and executed.
